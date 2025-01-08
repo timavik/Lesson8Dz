@@ -1,0 +1,14 @@
+D:\csharp\Lesson8DzThree\Lesson8DzThree\bin\Debug\net9.0\Lesson8DzThree.exe
+D:\csharp\Lesson8DzThree\Lesson8DzThree\bin\Debug\net9.0\Lesson8DzThree.deps.json
+D:\csharp\Lesson8DzThree\Lesson8DzThree\bin\Debug\net9.0\Lesson8DzThree.runtimeconfig.json
+D:\csharp\Lesson8DzThree\Lesson8DzThree\bin\Debug\net9.0\Lesson8DzThree.dll
+D:\csharp\Lesson8DzThree\Lesson8DzThree\bin\Debug\net9.0\Lesson8DzThree.pdb
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.AssemblyInfoInputs.cache
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.AssemblyInfo.cs
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.dll
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\refint\Lesson8DzThree.dll
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.pdb
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\Lesson8DzThree.genruntimeconfig.cache
+D:\csharp\Lesson8DzThree\Lesson8DzThree\obj\Debug\net9.0\ref\Lesson8DzThree.dll
